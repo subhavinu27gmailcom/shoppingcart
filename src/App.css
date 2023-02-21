@@ -1,0 +1,16 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: #1040a1;
+  height: 100px;
+  display: flex;
+ 
+  align-items: center;
+  justify-content: space-around;
+
+  color:whitesmoke rgb(7, 6, 6);
+}
